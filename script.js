@@ -11,10 +11,10 @@
   let my = 0;
   let toggle = 0;
   let circles = [];
-  let circlesCount = 20;
+  let circlesCount = 6;
   let maxLength = 600;
   const stepLength = 2;
-  const maxOffset = 6;
+  const maxOffset = 20;
 
   class Circle {
     constructor(x,y) {
