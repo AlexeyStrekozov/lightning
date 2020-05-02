@@ -11,7 +11,7 @@
   let my = 0;
   let toggle = 0;
   let circles = [];
-  let circlesCount = 6;
+  let circlesCount = 20;
   let maxLength = 600;
   const stepLength = 2;
   const maxOffset = 6;
